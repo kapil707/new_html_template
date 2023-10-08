@@ -21,3 +21,42 @@ a:hover{
 #menu li a:hover{
     background-color: gray;
 }
+#slider img{
+    height:750px;
+}
+
+#slider-bottom{
+    color: #fff;
+    background: #27387E;
+    padding: 20px;
+}
+
+#home-box1{
+    padding: 50px;
+    margin-top: 50px;
+}
+#home-box1 .row .col-md-3:first-child{
+    border: 0px;
+}
+#home-box1 .row .col-md-3{
+    border-left: solid 1px #240d0d ;
+}
+
+#home-box2{
+    padding: 50px;
+    margin-top: 50px;
+}
+#home-box2 h5{
+    font-size: 2rem;
+    margin-bottom: 50px;
+}
+
+#home-box3{
+    padding: 50px;
+    margin-top: 50px;
+}
+#home-box3 h5{
+    font-size: 2rem;
+    margin-bottom: 50px;
+    color: #27387E;
+}
