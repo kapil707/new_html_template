@@ -1,0 +1,23 @@
+a:hover{
+    text-decoration: none;
+}
+#header{
+    color: #fff;
+    background: #27387E;
+}
+#menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li{
+    display: inline-block;
+}
+#menu li a{
+    color:#fff;
+    padding: 15px 10px;
+    display: block;
+}
+#menu li a:hover{
+    background-color: gray;
+}
